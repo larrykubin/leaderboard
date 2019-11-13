@@ -23,7 +23,7 @@ Returns all scores for a particular username
 ### GET /scores/{username}
 
 ```
-curl https://le0zofexj7.execute-api.us-west-2.amazonaws.com/api/leaderboard
+curl https://le0zofexj7.execute-api.us-west-2.amazonaws.com/api/scores/larry
 ```
 
 ## Create Score
