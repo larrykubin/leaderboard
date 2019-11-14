@@ -1,3 +1,15 @@
+# AWS Chalice
+
+This API is built with AWS Chalice. Below are screencasts to learn more about getting started with AWS Chalice:
+
+## Part 1
+
+https://www.youtube.com/watch?v=me-v7BCaZH0
+
+## Part 2
+
+https://www.youtube.com/watch?v=mRuBtE057aM
+
 # Flappy Bird High Scores API
 
 https://docs.google.com/document/d/1ory-ypsUihfoD8Dh-k_Fcfnu6nhvrlStJB0A1hGCQmE/edit?usp=sharing
