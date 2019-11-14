@@ -12,6 +12,8 @@ Part 1 - https://www.youtube.com/watch?v=me-v7BCaZH0
 
 Part 2 - https://www.youtube.com/watch?v=mRuBtE057aM
 
+## API Endpoints
+
 ### Base API URL
 
 https://le0zofexj7.execute-api.us-west-2.amazonaws.com/api
