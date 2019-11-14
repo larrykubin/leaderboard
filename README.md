@@ -6,11 +6,20 @@ https://docs.google.com/document/d/1ory-ypsUihfoD8Dh-k_Fcfnu6nhvrlStJB0A1hGCQmE/
 
 This API is built with AWS Chalice. Below are screencasts to learn more about getting started with AWS Chalice:
 
-### Chalice Tutorial Screencast
+### Screencasts
 
-Part 1 - https://www.youtube.com/watch?v=me-v7BCaZH0
+Getting Started with AWS Chalice Part 1 - https://www.youtube.com/watch?v=me-v7BCaZH0
 
-Part 2 - https://www.youtube.com/watch?v=mRuBtE057aM
+Getting Started with AWS Chalice Part 2 - https://www.youtube.com/watch?v=mRuBtE057aM
+
+Serverless Slack Bot Part 1 (Creating Endpoints) - https://www.youtube.com/watch?v=-Ag_k5p0sTs
+
+Serverless Slack Bot Part 2 (Third Party Packages) - https://www.youtube.com/watch?v=G__hYyluwYM
+
+Serverless Slack Bot Part 3 (Cloudwatch Events) - https://www.youtube.com/watch?v=m0HW-Bb70_c
+
+Serverless Slack Bot Part 4 (DynamoDB Storage) - (coming soon)
+
 
 ## API Endpoints
 
