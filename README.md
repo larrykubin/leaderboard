@@ -1,4 +1,4 @@
-# Flappy Bird High Scores API
+# Flappy Bird Leaderboard API
 
 https://docs.google.com/document/d/1ory-ypsUihfoD8Dh-k_Fcfnu6nhvrlStJB0A1hGCQmE/edit?usp=sharing
 
