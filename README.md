@@ -2,11 +2,13 @@
 
 This API is built with AWS Chalice. Below are screencasts to learn more about getting started with AWS Chalice:
 
-## Part 1
+## Chalice Tutorial 
+
+### Part 1
 
 https://www.youtube.com/watch?v=me-v7BCaZH0
 
-## Part 2
+### Part 2
 
 https://www.youtube.com/watch?v=mRuBtE057aM
 
