@@ -20,6 +20,9 @@ Serverless Slack Bot Part 3 (Cloudwatch Events) - https://www.youtube.com/watch?
 
 Serverless Slack Bot Part 4 (DynamoDB Storage) - (coming soon)
 
+Serverless Slack Bot Part 5 (Authorization) - (coming soon)
+
+
 
 ## API Endpoints
 
