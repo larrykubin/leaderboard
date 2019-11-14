@@ -12,18 +12,6 @@ Getting Started with AWS Chalice Part 1 - https://www.youtube.com/watch?v=me-v7B
 
 Getting Started with AWS Chalice Part 2 - https://www.youtube.com/watch?v=mRuBtE057aM
 
-Serverless Slack Bot Part 1 (Creating Endpoints) - https://www.youtube.com/watch?v=-Ag_k5p0sTs
-
-Serverless Slack Bot Part 2 (Third Party Packages) - https://www.youtube.com/watch?v=G__hYyluwYM
-
-Serverless Slack Bot Part 3 (Cloudwatch Events) - https://www.youtube.com/watch?v=m0HW-Bb70_c
-
-Serverless Slack Bot Part 4 (DynamoDB Storage) - (coming soon)
-
-Serverless Slack Bot Part 5 (Authorization) - (coming soon)
-
-
-
 ## API Endpoints
 
 ### Base API URL
