@@ -58,4 +58,4 @@ Example:
 curl -d '{"game_id": 1, "score": 789, "username": "john"}' -H "Content-Type: application/json" -X POST https://le0zofexj7.execute-api.us-west-2.amazonaws.com/api/scores/create
 ```
 
-Test edit
+Test
